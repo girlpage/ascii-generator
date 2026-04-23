@@ -23,7 +23,7 @@ and line height (pt), if you paste the output somewhere<br>
 the output might not be formatted as you wish, you either have to adjust<br>
 the code or paste the txt into an editor
 
-##examples
+## examples
 
 ![Preview](ascii-preview.png)
 ![Preview](korb-preview.png)
