@@ -3,8 +3,9 @@ An open-source tool to convert images into ascii art.
 
 **manual for macOS terminal**
 
-1. save the file on desktop or in another directory
+1. save the file on desktop or in another directory<br>
 
+*in your terminal:*<br>
 2. change directory<br>
 `cd your directory`<br>
 
