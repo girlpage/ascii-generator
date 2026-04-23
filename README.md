@@ -5,17 +5,17 @@ An open-source tool to convert images into ascii art.
 
 1. save the file on desktop or in another directory
 
-2. change directory 
-`cd your directory`
+2. change directory<br>
+`cd your directory`<br>
 
-3. start the program
-`python3 script.py`
+3. start the program<br>
+`python3 script.py`<br>
 
-4. enter the name of a file, you want to convert
-`example.jpg`
+4. enter the name of a file, you want to convert<br>
+`example.jpg`<br>
 
-5. change characters in the array to change the output
-`ASCII_CHARS = ["‹","!","#","Ç","-","_","#","?","“","≠"," "]`
+5. change characters in the array to change the output<br>
+`ASCII_CHARS = ["‹","!","#","Ç","-","_","#","?","“","≠"," "]`<br>
 
 **note:** you have to use a monospaced font with the same font size (pt)<br>
 and line height (pt), if you paste the output somewhere<br>
