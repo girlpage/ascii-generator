@@ -6,6 +6,7 @@ An open-source tool to convert images into ascii art.
 1. save the file on desktop or in another directory<br>
 
 *in your terminal:*<br>
+
 2. change directory<br>
 `cd your directory`<br>
 
